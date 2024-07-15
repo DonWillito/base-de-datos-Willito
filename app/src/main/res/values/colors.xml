@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="light_coral">#F08080</color>
+    <color name="light_cyan">#E0FFFF</color>
+    <color name="light_goldenrod_yellow">#FAFAD2</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="light_green">#90EE90</color>
+    <color name="light_pink">#FFB6C1</color>
+    <color name="light_salmon">#FFA07A</color>
+    <color name="light_sea_green">#20B2AA</color>
+    <color name="light_sky_blue">#87CEFA</color>
+    <color name="light_slate_gray">#778899</color>
+    <color name="light_steel_blue">#B0C4DE</color>
+    <color name="light_yellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="lime_green">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="maroon">#800000</color>
+    <color name="medium_aquamarine">#66CDAA</color>
+    <color name="medium_blue">#0000CD</color>
+    <color name="medium_orchid">#BA55D3</color>
+    <color name="medium_purple">#9370DB</color>
+    <color name="medium_sea_green">#3CB371</color>
+    <color name="medium_slate_blue">#7B68EE</color>
+    <color name="medium_spring_green">#00FA9A</color>
+    <color name="medium_turquoise">#48D1CC</color>
+    <color name="medium_violet_red">#C71585</color>
+    <color name="midnight_blue">#191970</color>
+    <color name="mint_cream">#F5FFFA</color>
+    <color name="misty_rose">#FFE4E1</color>
+</resources>
