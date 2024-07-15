@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.basesita.universidadumaee'
+    namespace 'com.basesita.basededatos'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.basesita.universidadumaee"
+        applicationId "com.basesita.basededatos"
         minSdk 24
         targetSdk 34
         versionCode 1
