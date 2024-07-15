@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.goldenfenix.universidadumaee'
+    namespace 'com.basesita.universidadumaee'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.goldenfenix.universidadumaee"
+        applicationId "com.basesita.universidadumaee"
         minSdk 24
         targetSdk 34
         versionCode 1
